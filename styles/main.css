@@ -4,17 +4,23 @@ body {
 header {
   background: black;
   color: white;
-  margin: 15px;
+  margin: 9px;
+  padding: 6px;
+  border: solid white 2px;
 }
 main {
   background: black;
   color: white;
-  margin: 15px;
+  margin: 9px;
+  padding: 6px;
+  border: solid white 2px;
 }
 footer {
   background: black;
   color: white;
-  margin: 15px;
+  margin: 9px;
+  padding: 6px;
+  border: solid white 2px;
 }
 
 .nav-link {
