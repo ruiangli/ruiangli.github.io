@@ -16,3 +16,7 @@ footer {
   color: white;
   margin: 15px;
 }
+
+.nav-link {
+  text-decoration: none;
+}
